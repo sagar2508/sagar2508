@@ -10,7 +10,7 @@ I'm **Sagar Kumar**, an **Azure Data Engineer** passionate about building scalab
 When I’m not debugging Spark jobs, I’m visualizing trends in Power BI or automating workflows using Python and Azure tools.  
 
 💼 **Currently Building:** ETL pipelines in **Azure Databricks + ADF**  
-🎯 **Focus Areas:** Data Architecture, Cloud Analytics, Automation  
+🎯 **Focus Areas:** Data Analyst,Data Engineer, Automation  
 🧩 **Next Step:** Exploring **Azure Synapse + Machine Learning Pipelines**  
 
 ---
