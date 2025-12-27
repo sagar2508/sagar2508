@@ -42,7 +42,7 @@ When I’m not debugging Spark jobs, I’m training ML models, visualizing trend
 | **Languages** | Python, SQL, DAX |
 | **Data Engineering** | Azure Data Factory, Databricks, PySpark, Synapse |
 | **Analytics & Visualization** | Power BI, Pandas, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-Learn, TensorFlow, PyTorch, ML Pipelines |
+| **Machine Learning** |Regression, Classification, Clustering,Model Evaluation|
 | **Automation** | Python + Selenium |
 | **Cloud** | Azure Ecosystem |
 
