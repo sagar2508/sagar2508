@@ -30,7 +30,7 @@ When I’m not debugging Spark jobs, I’m training ML models, visualizing trend
 </p>
 
 <p align="center">
-  <strong>Python</strong> • <strong>Azure</strong> • <strong>Databricks</strong> • <strong>Pandas</strong> • <strong>MySQL</strong> • <strong>Power BI</strong> • <strong>Scikit-Learn</strong> • <strong>Git</strong> • <strong>VS Code</strong>
+  <strong>Python</strong> • <strong>Azure</strong> • <strong>Databricks</strong> • <strong>Pandas</strong> • <strong>MySQL</strong> • <strong>Power BI</strong> • <strong>Git</strong> • <strong>VS Code</strong>
 </p>
 
 ---
