@@ -25,7 +25,6 @@ When I’m not debugging Spark jobs, I’m training ML models, visualizing trend
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="100" alt="Pandas" style="margin:15px;"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="75" alt="MySQL" style="margin:15px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" alt="Power BI" style="margin:15px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="65" alt="Scikit-Learn" style="margin:15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git" style="margin:15px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VS Code" style="margin:15px;"/> 
 </p>
