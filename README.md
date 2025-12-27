@@ -15,7 +15,7 @@ When I’m not debugging Spark jobs, I’m visualizing trends in Power BI or aut
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" alt="Python" style="margin:15px;"/> 
